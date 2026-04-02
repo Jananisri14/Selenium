@@ -1,4 +1,4 @@
-package selenium_java.selenium_java_new;
+package selenium_demo.selenium_java_new;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
