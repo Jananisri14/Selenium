@@ -1,9 +1,6 @@
 package selenium_demo.selenium_java_new;
-
 import static org.openqa.selenium.support.locators.RelativeLocator.with;
-
 import org.openqa.selenium.By;
-import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
